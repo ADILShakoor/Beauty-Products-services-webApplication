@@ -279,7 +279,7 @@ font-size: 20px;
     /* display: flex; */
     /* flex-direction: column; */
 /* border: 2px solid chocolate; */
-background-image:url(/Images/about-home.jpg);
+background-image:url(about-home.jpg);
 background-repeat: no-repeat;
 outline-offset: -10px;
 outline: 2px solid chocolate;
@@ -424,7 +424,7 @@ justify-content:center;
 position: relative;
  }
  #section7img{
-    background-image: url(/Images/calltoaction1.jpg);
+    background-image: url(calltoaction1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
